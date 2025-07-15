@@ -4,6 +4,8 @@ Desafio FullStack para o Gazin
 Não consegui rodar com o docker. O frontend funcionava corretamente,
 mas o backend dava erro ou rodava sem conseguir acessar o banco de dados
 
+Eu também já deixei um banco de dados com os testes que eu tava fazendo pra poder mostrar a paginação sem precisar ficar inserindo um monte de devs e níveis
+
 Tecnologias utilizadas:
 
     Node.js – Backend
