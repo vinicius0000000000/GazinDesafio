@@ -20,6 +20,8 @@ Tecnologias utilizadas:
 
 Como rodar o projeto
 
+Para conseguir rodar o projeto, você deve ter instalado o Node.js, que pode ser baixado o site: https://nodejs.org/en
+
 1. Clone o repositório:
 
     git clone https://github.com/vinicius0000000000/GazinDesafio.git
@@ -54,7 +56,7 @@ Como rodar o projeto
         cd frontend
 
         npm start
-        
+
 
     O servidor roda em http://localhost:3001 e o frontend em http://localhost:3000
 
