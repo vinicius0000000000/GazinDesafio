@@ -43,7 +43,7 @@ Para conseguir rodar o projeto, você deve ter instalado o Node.js, que pode ser
 
 3. Rodar o projeto:
 
-    3.a. Iniciar o backend:
+    3.a. Iniciar o backend (a partir da raiz do projeto):
 
         cd backend
 
@@ -51,7 +51,7 @@ Para conseguir rodar o projeto, você deve ter instalado o Node.js, que pode ser
 
     
 
-    3.b. Iniciar o frontend (em outro cmd):
+    3.b. Iniciar o frontend (em outro cmd, também a partir da raiz do projeto):
 
         cd frontend
 
